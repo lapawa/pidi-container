@@ -1,6 +1,6 @@
 [submodule "repos/pidi"]
 	path = repos/pidi
-	url = git@github.com:lapawa/pidi.git
+	url = https://github.com/lapawa/pidi.git
 [submodule "repos/pidi-plugins"]
 	path = repos/pidi-plugins
-	url = git@github.com:pimoroni/pidi-plugins.git
+	url = https://github.com/pimoroni/pidi-plugins.git
